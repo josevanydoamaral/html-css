@@ -1,0 +1,37 @@
+Todo o boxing tem o conteúdo, tem uma borda, tem padding e margin.
+
+conteúdo tem uma altura e uma largura.
+borda - linha que circunda o conteúdo.
+padding- espaço entre uma borda e o conteúdo.
+margin- espaço entre dois elementos
+outline- borda é dentro do elemento o outline é fora
+
+2- tipos de caixa
+box-level
+	<div>
+ocupam a largura todo num novo parágrafo	
+
+inline-level
+	<span>
+um elemento e a próxima caixa fica do lado
+
+user agent- o navegador que exibe o conteúdo
+
+tags de agrupamento eram div e span
+
+
+						Vértices arredondados
+box-shadow: horizontal vertical espalhamento alcance cor transparência
+
+
+						Bordas decoradas
+			
+	border-image-source: url('borda.png')
+	border-image-slice: 30
+	border-image-repeat: repeat ou stretch
+
+	shorthand
+
+	border-image: url('borda.png') 30 repeat
+
+	tem que manter o border antes e posso colocar a cor transparente para que não haja problemas de compatibildade
