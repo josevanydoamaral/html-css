@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios.
 
-<a href="https://josevanydoamaral.github.io/html-css/desafios/d10/">Executar o desafio 10</a>
+<a href="https://josevanydoamaral.github.io/html-css/">Executar o desafio 10</a>
