@@ -1,0 +1,12 @@
+imagem de fundo: background-image - funcao url: http
+
+a imagem é carregada por padrão no seu tamanho padrao
+
+imagens de background pesadas fazem o site ficar mais pesado
+
+background-size: 100px 100px - tMnhho dA IMG DE FUNDO
+background- repeat: no-repeat;
+repeat-x
+repeat-y
+
+será sempre carregada no tamanho padrao ah n ser que eu use a propriedade background-size.
