@@ -12,3 +12,8 @@ repeat-y
 será sempre carregada no tamanho padrao ah n ser que eu use a propriedade background-size.
 
 quando crio um site é preiso definir uma cor de fundo mesmo com uma imagem de fundo porque o navegador renderiza primeiro o texto, depois as imagens.
+
+contain exibe 100% na immagem mas não ocupa 100% da viewport
+
+cover não exibe 100% da imagem, mas ocupa 100% da viewport
+
