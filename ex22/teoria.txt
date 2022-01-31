@@ -17,3 +17,33 @@ contain exibe 100% na immagem mas não ocupa 100% da viewport
 
 cover não exibe 100% da imagem, mas ocupa 100% da viewport
 
+Background-attachment: 
+fundo fixo de tela
+vínculo - attachment
+
+
+dois valores possíveis:
+fixed: o fundo fica fixo e o conteúdo rola
+scroll: o fundo rola junto com o conteúdo
+
+shorthand
+
+background
+1-color
+2-image
+3-position
+4-repeat
+5-size(obs)
+6-attachment
+
+Alinhamento vertical
+posição do container: position: relative;
+conteúdo: position: absolute;
+
+o posicionamento absoluto permite a utilização de duas
+propriedades: 
+left: 50%
+top: 50%
+
+depois uso o: 
+transform: translate(-50px, -50px);
