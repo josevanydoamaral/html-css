@@ -1,0 +1,14 @@
+tabelas são usadas para mostrar dados e não para construir o
+layout de um site.
+
+hierarquia de tabelas simples
+table = tabela
+    table row = linha de tabela
+        table header = cabeçalho de tabela
+        table data = dados da tabela
+
+o w3c coloca como opcional o fechamento da tag tr e td
+
+se a hierarquia não for obedecida os dados vão ser colocados ou em cima ou em baixo
+
+border-collapse  - serve para definir se eu quero a tabela junta ou separada
