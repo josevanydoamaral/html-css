@@ -14,3 +14,13 @@ se a hierarquia não for obedecida os dados vão ser colocados ou em cima ou em 
 border-collapse  - serve para definir se eu quero a tabela junta ou separada
 
 para alinhar verticalmente, uso o vertical-align: middle, top ou bottom
+
+Anatomia para tabelas grandes:
+
+TABLES
+    THEAD
+        TR, TD, TH
+    TBODY
+        TR, TD, TH
+    TFOOT
+        TR, TD, TH
