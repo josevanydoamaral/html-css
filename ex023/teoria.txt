@@ -28,3 +28,9 @@ TABLES
 Caption: legenda da tabela
 
 para dizer que um th é o th de um determinado grupo usa-se scope="col"
+
+para colocar o efeito zebrado 
+
+tbody > td:nth-child(2n ou odd ou even) {
+
+}
