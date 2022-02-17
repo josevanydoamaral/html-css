@@ -24,3 +24,7 @@ TABLES
         TR, TD, TH
     TFOOT
         TR, TD, TH
+
+Caption: legenda da tabela
+
+para dizer que um th é o th de um determinado grupo usa-se scope="col"
